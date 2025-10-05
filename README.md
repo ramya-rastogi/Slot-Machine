@@ -70,6 +70,15 @@ Press Enter to play (q to quit)
 slot_machine.py    # Main Python file containing the entire game logic  
 README.md          # Project documentation  
 
+```
 ---
+
+## 🧰 Concepts Used
+
+- Random module (random.choice)
+- Functions and loops
+- Conditional statements
+- User input handling
+- Data structures (lists, dictionaries
 
 
