@@ -37,12 +37,12 @@ This project allows players to deposit money, place bets on multiple lines, spin
 1. **Run the program**
    ```bash
    python slot_machine.py
-2.Deposit some money to start.
-3.Choose the number of lines you want to bet on (1–3).
-4.Enter your bet amount per line.
-5.Spin!
-6.The machine will display the slot results and your winnings.
-7.You can play again or quit anytime by typing q.
+- 2.Deposit some money to start.
+- 3.Choose the number of lines you want to bet on (1–3).
+- 4.Enter your bet amount per line.
+- 5.Spin!
+- 6.The machine will display the slot results and your winnings.
+- 7.You can play again or quit anytime by typing q.
 
 
 ## 🧮 Example Gameplay
