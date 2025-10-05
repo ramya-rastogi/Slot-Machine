@@ -46,7 +46,7 @@ This project allows players to deposit money, place bets on multiple lines, spin
 
 
 ## 🧮 Example Gameplay
-```bash
+
 What would you like to deposit? 5000
 Enter number of lines you want to bet on (1-3)? 3
 What would you like to bet on each line? 1000
