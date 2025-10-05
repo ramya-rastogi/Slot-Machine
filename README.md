@@ -44,9 +44,11 @@ This project allows players to deposit money, place bets on multiple lines, spin
 - The machine will display the slot results and your winnings.
 - You can play again or quit anytime by typing q.
 
+---
 
 ## 🧮 Example Gameplay
 
+```text
 What would you like to deposit? 5000
 Enter number of lines you want to bet on (1-3)? 3
 What would you like to bet on each line? 1000
@@ -61,11 +63,13 @@ You won on lines: 3
 Current Balance is 7000
 Press Enter to play (q to quit)
 
+---
 
 ## ⚙️ Project Structure
 slot_machine.py    # Main Python file containing the entire game logic
 README.md           # Project documentation
 
+---
 
 ## 🧰 Concepts Used
 - Random module (random.choice)
