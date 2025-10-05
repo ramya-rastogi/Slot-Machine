@@ -48,33 +48,28 @@ This project allows players to deposit money, place bets on multiple lines, spin
 
 ## 🧮 Example Gameplay
 
-```text
-What would you like to deposit? 5000
-Enter number of lines you want to bet on (1-3)? 3
-What would you like to bet on each line? 1000
-You are betting 1000 on 3 lines. Total bet is equal to 3000
+````text
+What would you like to deposit? 5000  
+Enter number of lines you want to bet on (1-3)? 3  
+What would you like to bet on each line? 1000  
+You are betting 1000 on 3 lines. Total bet is equal to 3000  
 
-A | D | A
-B | A | A
-A | A | A
+A | D | A  
+B | A | A  
+A | A | A  
 
-YOU WON 5000.
-You won on lines: 3
-Current Balance is 7000
-Press Enter to play (q to quit)
-
+YOU WON 5000.  
+You won on lines: 3  
+Current Balance is 7000  
+Press Enter to play (q to quit)  
+````
 ---
 
 ## ⚙️ Project Structure
-slot_machine.py    # Main Python file containing the entire game logic
-README.md           # Project documentation
+```bash
+slot_machine.py    # Main Python file containing the entire game logic  
+README.md          # Project documentation  
 
 ---
 
-## 🧰 Concepts Used
-- Random module (random.choice)
-- Functions and loops
-- Conditional statements
-- User input handling
-- Data structures (lists, dictionaries)
 
